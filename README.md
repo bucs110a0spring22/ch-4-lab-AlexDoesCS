@@ -8,18 +8,18 @@
 _Replace anything surrounded by the `< >` symbols._
 
 ## SUMMARY:
- < Provide a short description of your program's functionality. No more than a couple sentences. >
+ < #This code was broken up into two different parts Part A and Part B. Part A was more of a practice for Part B to see if you understood what was going on but Part B was overall making a plot that drew different functions, since, Cosine, and Tan.  >
 
 ## GRACE DAYS
-Grace days used for this assignment: < # >
+Grace days used for this assignment: < #0 >
 
-Grace days remaining: < # >/5
+Grace days remaining: < # 0/5
 
 ## KNOWN BUGS AND INCOMPLETE PARTS:
- < What parts of the project you were not able to complete >
+ < #I don't know if this was a bug but everything overlapping eachother, I don't know if this was meant to be taken off. >
 
 ## REFERENCES:
- < List any outside resources used >
+ < #None>
 
 ## MISCELLANEOUS COMMENTS:
- < Anything you would like the grader to know >
+ < #none >
